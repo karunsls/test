@@ -2,18 +2,18 @@
   "packages": [
     {
       "name": "pt32",
-      "maintainer": "Espressif Systems",
+      "maintainer": "sls",
       "websiteURL": "https://github.com/espressif/arduino-esp32",
-      "email": "hristo@espressif.com",
+      "email": "abc@espressif.com",
       "help": {
         "online": "http://esp32.com"
       },
       "platforms": [
         {
           "name": "pt32",
-          "architecture": "esp32",
+          "architecture": "pt32",
           "version": "2.0.14",
-          "category": "ESP32",
+          "category": "pt32",
           "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.14/esp32-2.0.14.zip",
           "archiveFileName": "esp32-2.0.14.zip",
           "checksum": "SHA-256:77c71eba520c97ab30161eb2f9c6a46b019e48d13936244b18f6ad4dbecf0a58",
