@@ -1,21 +1,19 @@
-    {
+{
   "packages": [
     {
       "name": "pt32",
-      "maintainer": "sls",
+      "maintainer": "by sls",
+      "websiteURL": "https://example.com",
       "platforms": [
         {
-          "name": "pt32",
+          "name": "pt32 board",
           "architecture": "pt32",
-          "version": "1.0",
-          "category": "pt32",
-          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.14/esp32-2.0.14.zip",
-          "archiveFileName": "esp32-2.0.14.zip",
-          "checksum": "SHA-256:77c71eba520c97ab30161eb2f9c6a46b019e48d13936244b18f6ad4dbecf0a58",
-          "size": "252506057",
-          "help": {
-            "online": ""
-          },
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/karunsls/test/raw/main/customboard.zip",
+          "archiveFileName": "customboard.zip",
+          "checksum": "SHA-256:0356D54EA6C16F3E8C4C51C906C1C29105F3B1F61A726D624B1CD3DCD03A6F9D",
+          "size": "1768",
           "boards": [
             {
               "name": "pt32  Board"
